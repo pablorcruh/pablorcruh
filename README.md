@@ -17,7 +17,11 @@ I am a Electronic Engineer, software developer.
 * Digital Ocean 
 * GCP
 
-# Blog posts
+# Certifications:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f569b5d-67bf-4b96-b857-bdbf712dd224" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
+# Blog Posts:
 <!-- BLOG-POST-LIST:START -->
 - [Hablemos de Infraestructura](https://blog.pablo-cruz.com/hablemos-de-infraestructura/)
 - [Guía Básica de Kubernetes.](https://blog.pablo-cruz.com/guia-basica-de-kubernetes/)
@@ -28,3 +32,5 @@ I am a Electronic Engineer, software developer.
 # Stats:
 
 <img align="left" alt="Pablo Cruz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pablorcruh&show_icons=true&hide_border=true" />
+
+
