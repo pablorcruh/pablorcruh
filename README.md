@@ -27,4 +27,4 @@ I am a Electronic Engineer, software developer.
 
 # Stats:
 
-[Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pablorcruh&show_icons=true&theme=radical)
+<img align="left" alt="Pablo Cruz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pablorcruh&show_icons=true&hide_border=true" />
