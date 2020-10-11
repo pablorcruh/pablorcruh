@@ -19,7 +19,10 @@ I am a Electronic Engineer, software developer.
 
 # Certifications:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f569b5d-67bf-4b96-b857-bdbf712dd224" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+<img align="left" alt="AWS Certified Solutions Architect Associate" src="https://www.youracclaim.com/badges/6f569b5d-67bf-4b96-b857-bdbf712dd224/public_url" />
+
+<img align="left" alt="AWS Certified Developer Associate" src="https://www.youracclaim.com/badges/ade64920-3637-442e-8b1b-61fef14fd22a/public_url" />
+
 
 # Blog Posts:
 <!-- BLOG-POST-LIST:START -->
