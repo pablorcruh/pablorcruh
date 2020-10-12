@@ -24,6 +24,7 @@ I am a Electronic Engineer, software developer.
 
 # Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Creación de una Instancia de EC2](https://blog.pablo-cruz.com/creacion_instancia_ec2/)
 - [Hablemos de Infraestructura](https://blog.pablo-cruz.com/hablemos-de-infraestructura/)
 - [Guía Básica de Kubernetes.](https://blog.pablo-cruz.com/guia-basica-de-kubernetes/)
 - [INTRODUCCIÓN AL CLOUD COMPUTING](https://blog.pablo-cruz.com/cloud-computing-intro/)
