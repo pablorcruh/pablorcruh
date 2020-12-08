@@ -24,11 +24,11 @@ I am a Electronic Engineer, software developer.
 
 # Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Virtual Private Cloud (AWS)](https://blog.pablo-cruz.com/virtual-private-cloud-aws/)
 - [Hablemos de los Indices en DynamoDB](https://blog.pablo-cruz.com/dynamodb/)
 - [Crear una API Rest con Spring Boot](https://blog.pablo-cruz.com/crear-una-api-rest-con-spring-boot/)
 - [Gestión de Datos en AWS](https://blog.pablo-cruz.com/gestioninformacionaws/)
 - [Creación de una Instancia de EC2](https://blog.pablo-cruz.com/creacion_instancia_ec2/)
-- [Hablemos de Infraestructura](https://blog.pablo-cruz.com/hablemos-de-infraestructura/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats:
