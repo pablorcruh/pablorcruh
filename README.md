@@ -24,11 +24,11 @@ I am a Electronic Engineer, software developer.
 
 # Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Hackeando un Teléfono Android](https://blog.pablo-cruz.com/hackeando-un-telefono-android/)
 - [Encripción en Amazon Web Services](https://blog.pablo-cruz.com/encripcion-aws/)
 - [Virtual Private Cloud (AWS)](https://blog.pablo-cruz.com/virtual-private-cloud-aws/)
 - [Hablemos de los Indices en DynamoDB](https://blog.pablo-cruz.com/dynamodb/)
 - [Crear una API Rest con Spring Boot](https://blog.pablo-cruz.com/crear-una-api-rest-con-spring-boot/)
-- [Gestión de Datos en AWS](https://blog.pablo-cruz.com/gestioninformacionaws/)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats:
