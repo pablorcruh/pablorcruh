@@ -24,6 +24,7 @@ I am a Electronic Engineer, software developer.
 
 # Blog Posts:
 <!-- BLOG-POST-LIST:START -->
+- [Hablemos de Infraestructura](https://blog.tech.pablo-cruz.com/hablemos-de-infraestructura/)
 - [Crear una API Rest con Spring Boot](https://blog.tech.pablo-cruz.com/crear-una-api-rest-con-spring-boot/)
 - [Guía Básica de Kubernetes.](https://blog.tech.pablo-cruz.com/guia-basica-de-kubernetes/)
 - [Introducción a Computación en la Nube](https://blog.tech.pablo-cruz.com/introduccion-a-computacion-en-la-nube/)
