@@ -31,8 +31,4 @@ I am a Electronic Engineer, software developer.
 - [Bienvenida](https://blog.tech.pablo-cruz.com/bienvenida/)
 <!-- BLOG-POST-LIST:END -->
 
-# Stats:
-
-<img align="left" alt="Pablo Cruz GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pablorcruh&show_icons=true&hide_border=true" />
-
 
