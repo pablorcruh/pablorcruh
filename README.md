@@ -19,7 +19,7 @@ I am a Electronic Engineer, software developer.
 
 # Certifications:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f569b5d-67bf-4b96-b857-bdbf712dd224" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/6f569b5d-67bf-4b96-b857-bdbf712dd224/public_url
 
 
 * AWS Certified Developer Associate
