@@ -19,18 +19,7 @@ I am a Electronic Engineer, software developer.
 
 # Certifications:
 
-
-[![Made with Jekyll](https://img.shields.io/badge/Made_with-Jekyll-blue.svg)](https://jekyllrb.com)
-[![Theme Minima](https://img.shields.io/badge/Theme-Minima-blue.svg)](https://github.com/jekyll/minima)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/jekyll-blog-demo.svg)](https://GitHub.com/MichaelCurrin/jekyll-blog-demo/tags/)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
-
-[![Use this template](https://img.shields.io/badge/Use_this_Template-green.svg?style=for-the-badge)](https://github.com/MichaelCurrin/jekyll-blog-demo/generate)
-[![Site link](https://img.shields.io/badge/GH_Pages-Live_demo-green.svg?style=for-the-badge)](https://michaelcurrin.github.io/jekyll-blog-demo/)
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6f569b5d-67bf-4b96-b857-bdbf712dd224" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+* AWS Certified Solutions Architect Associate
 
 * AWS Certified Developer Associate
 
